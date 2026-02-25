@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "Factur-X 1.0.8 / EN 16931",
+    "headline": "Create Factur-X Invoices",
+    "subheadline": "Generate EN 16931 compliant e-invoices — PDF/A-3 with embedded CII XML",
+    "cta_primary": "Create Invoice",
+    "cta_secondary": "Upload File"
+  },
+  "how_it_works": {
+    "title": "How It Works",
+    "step": "Step",
+    "step1_title": "Enter Data",
+    "step1_desc": "Fill out the invoice form or upload an existing invoice (PDF, CSV, Excel, MT940, image).",
+    "step2_title": "Generate",
+    "step2_desc": "Our engine produces an EN 16931 compliant Factur-X invoice with CII XML and PDF/A-3.",
+    "step3_title": "Download",
+    "step3_desc": "Download your Factur-X PDF — machine-readable and legally compliant."
+  },
+  "features": {
+    "title": "Features",
+    "en16931": {
+      "title": "EN 16931 Compliant",
+      "desc": "Full conformance with the European standard for electronic invoicing."
+    },
+    "pdfa3": {
+      "title": "PDF/A-3 Format",
+      "desc": "Long-term archival per ISO 19005-3:2012 with embedded XML file."
+    },
+    "cii_xml": {
+      "title": "Embedded CII XML",
+      "desc": "UN/CEFACT Cross Industry Invoice as factur-x.xml embedded in the PDF."
+    },
+    "all_formats": {
+      "title": "All File Formats",
+      "desc": "PDF, CSV, Excel, MT940, camt.053, images — with AI-powered recognition."
+    },
+    "ai_parsing": {
+      "title": "AI Recognition",
+      "desc": "Intelligent data extraction from any invoice document."
+    },
+    "batch": {
+      "title": "Batch Processing",
+      "desc": "Upload CSV/Excel and generate multiple Factur-X invoices at once."
+    },
+    "mandate": {
+      "title": "Mandate Ready",
+      "desc": "Compliant with the French B2B e-invoicing timeline (PPF 2026–2027)."
+    },
+    "xmp_metadata": {
+      "title": "XMP Metadata",
+      "desc": "Complete fx namespace declaration per Factur-X 1.0.8 specification."
+    }
+  },
+  "formats": {
+    "title": "Supported Standards",
+    "zugferd": "ZUGFeRD 2.4",
+    "facturx": "Factur-X 1.0.8",
+    "en16931": "EN 16931",
+    "pdfa3": "PDF/A-3",
+    "cii": "UN/CEFACT CII"
+  },
+  "timeline": {
+    "title": "French E-Invoicing Timeline",
+    "subtitle": "Portail Public de Facturation (PPF)",
+    "phase1_date": "September 1, 2026",
+    "phase1_title": "Mandatory Reception",
+    "phase1_desc": "All VAT-registered businesses must be able to receive electronic invoices in Factur-X, UBL or CII format via PPF.",
+    "phase2_date": "September 1, 2027",
+    "phase2_title": "Mandatory Issuance — SMEs",
+    "phase2_desc": "Small and medium enterprises must issue compliant electronic invoices for all domestic B2B transactions.",
+    "phase3_date": "September 1, 2028",
+    "phase3_title": "Mandatory Issuance — Micro-enterprises",
+    "phase3_desc": "Micro-enterprises must also issue compliant e-invoices.",
+    "cta": "Get Ready Now"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is Factur-X?",
+    "a1": "Factur-X is the Franco-German electronic invoicing format. It combines a visual PDF with machine-readable XML, compliant with the EN 16931 standard.",
+    "q2": "What is EN 16931?",
+    "a2": "EN 16931 is the European standard for the semantic data model of core elements of an electronic invoice.",
+    "q3": "When does the e-invoicing mandate start?",
+    "a3": "From September 1, 2026, all businesses must accept e-invoices. From September 2027, SMEs must issue them. Micro-enterprises follow in September 2028.",
+    "q4": "What does PDF/A-3 mean?",
+    "a4": "PDF/A-3 is an ISO standard for long-term archival of PDF documents that also allows embedded files like XML.",
+    "q5": "Which file formats can I upload?",
+    "a5": "PDF, CSV, Excel (XLSX/XLS), MT940, camt.053 XML, and images (JPG, PNG, HEIC) of invoices.",
+    "q6": "How does AI recognition work?",
+    "a6": "Our AI analyzes uploaded documents and automatically extracts all relevant invoice fields according to EN 16931.",
+    "q7": "What is the SIREN?",
+    "a7": "SIREN is the unique 9-digit identifier assigned to every business in France by INSEE. It is required on compliant invoices."
+  },
+  "pricing": {
+    "title": "Pricing",
+    "free": "Free",
+    "free_desc": "Up to 3 invoices per day",
+    "starter": "Starter",
+    "starter_price": "20",
+    "starter_desc": "400 invoices / month",
+    "starter_annual": "200",
+    "pro": "Professional",
+    "pro_price": "50",
+    "pro_desc": "1,000 invoices / month",
+    "pro_annual": "500",
+    "business": "Enterprise",
+    "business_price": "99",
+    "business_desc": "4,000 invoices / month",
+    "business_annual": "800",
+    "per_month": "/ month",
+    "per_year": "/ year",
+    "cta": "Get Started",
+    "enterprise_cta": "Contact Us"
+  },
+  "footer": {
+    "copyright": "Factur-X Prêt",
+    "privacy": "Privacy Policy",
+    "imprint": "Legal Notice",
+    "terms": "Terms"
+  }
+}

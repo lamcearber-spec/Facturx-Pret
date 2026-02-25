@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "zugferd-api"
+version = "0.1.0"
+description = "ZUGFeRD invoice generation API - EN 16931 compliant"
+authors = ["ZUGFeRD-Bereit"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+# ZUGFeRD generation
+drafthorse = ">=2.3.0"
+factur-x = ">=3.15"
+weasyprint = ">=64.0"
+lxml = ">=4.9.0"
+
+# Web framework
+fastapi = ">=0.109.0"
+uvicorn = {extras = ["standard"], version = ">=0.25.0"}
+pydantic = ">=2.6.0"
+pydantic-settings = ">=2.0.0"
+python-multipart = ">=0.0.6"
+
+# File parsing
+pdfplumber = ">=0.11.0"
+pandas = ">=2.2.0"
+openpyxl = ">=3.1.0"
+Pillow = ">=10.0.0"
+pillow-heif = ">=0.18.0"
+
+# AI fallback
+openai = ">=1.0.0"
+tenacity = ">=8.0.0"
+
+# Utilities
+aiofiles = ">=23.0.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=7.0.0"
+pytest-asyncio = ">=0.23.0"
+httpx = ">=0.25.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

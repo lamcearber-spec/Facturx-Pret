@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "Factur-X 1.0.8 / EN 16931",
+    "headline": "Créez vos factures Factur-X",
+    "subheadline": "Générez des e-factures conformes EN 16931 — PDF/A-3 avec XML CII intégré",
+    "cta_primary": "Créer une facture",
+    "cta_secondary": "Importer un fichier"
+  },
+  "how_it_works": {
+    "title": "Comment ça marche",
+    "step": "Étape",
+    "step1_title": "Saisir les données",
+    "step1_desc": "Remplissez le formulaire de facturation ou importez une facture existante (PDF, CSV, Excel, MT940, image).",
+    "step2_title": "Générer",
+    "step2_desc": "Notre moteur produit une facture Factur-X conforme EN 16931 avec XML CII et PDF/A-3.",
+    "step3_title": "Télécharger",
+    "step3_desc": "Téléchargez votre PDF Factur-X — lisible par machine et conforme à la réglementation."
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "en16931": {
+      "title": "Conforme EN 16931",
+      "desc": "Pleine conformité avec la norme européenne pour la facturation électronique."
+    },
+    "pdfa3": {
+      "title": "Format PDF/A-3",
+      "desc": "Archivage longue durée selon ISO 19005-3:2012 avec fichier XML intégré."
+    },
+    "cii_xml": {
+      "title": "XML CII intégré",
+      "desc": "UN/CEFACT Cross Industry Invoice intégré en tant que factur-x.xml dans le PDF."
+    },
+    "all_formats": {
+      "title": "Tous les formats",
+      "desc": "PDF, CSV, Excel, MT940, camt.053, images — avec reconnaissance par IA."
+    },
+    "ai_parsing": {
+      "title": "Reconnaissance IA",
+      "desc": "Extraction intelligente des données à partir de tout type de document de facturation."
+    },
+    "batch": {
+      "title": "Traitement par lots",
+      "desc": "Importez un CSV/Excel et générez plusieurs factures Factur-X en une seule fois."
+    },
+    "mandate": {
+      "title": "Prêt pour le mandat",
+      "desc": "Conforme au calendrier de facturation électronique B2B en France (PPF 2026–2027)."
+    },
+    "xmp_metadata": {
+      "title": "Métadonnées XMP",
+      "desc": "Déclaration complète du namespace fx selon la spécification Factur-X 1.0.8."
+    }
+  },
+  "formats": {
+    "title": "Standards supportés",
+    "zugferd": "ZUGFeRD 2.4",
+    "facturx": "Factur-X 1.0.8",
+    "en16931": "EN 16931",
+    "pdfa3": "PDF/A-3",
+    "cii": "UN/CEFACT CII"
+  },
+  "timeline": {
+    "title": "Calendrier de la facturation électronique en France",
+    "subtitle": "Portail Public de Facturation (PPF)",
+    "phase1_date": "1er septembre 2026",
+    "phase1_title": "Réception obligatoire",
+    "phase1_desc": "Toutes les entreprises assujetties à la TVA doivent être en mesure de recevoir des factures électroniques au format Factur-X, UBL ou CII via le PPF.",
+    "phase2_date": "1er septembre 2027",
+    "phase2_title": "Émission obligatoire — PME & ETI",
+    "phase2_desc": "Les PME et ETI doivent émettre des factures électroniques conformes pour toutes les transactions B2B domestiques.",
+    "phase3_date": "1er septembre 2028",
+    "phase3_title": "Émission obligatoire — TPE",
+    "phase3_desc": "Les très petites entreprises (TPE) doivent également émettre des e-factures conformes.",
+    "cta": "Préparez-vous dès maintenant"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "q1": "Qu'est-ce que Factur-X ?",
+    "a1": "Factur-X est le format franco-allemand de facturation électronique. Il combine un PDF visuel avec un fichier XML lisible par machine, conforme à la norme EN 16931.",
+    "q2": "Qu'est-ce que la norme EN 16931 ?",
+    "a2": "EN 16931 est la norme européenne définissant le modèle de données sémantiques des éléments essentiels d'une facture électronique.",
+    "q3": "Quand la facturation électronique devient-elle obligatoire ?",
+    "a3": "À partir du 1er septembre 2026, toutes les entreprises doivent pouvoir recevoir des e-factures. Dès septembre 2027, les PME/ETI devront les émettre. Les TPE suivront en septembre 2028.",
+    "q4": "Que signifie PDF/A-3 ?",
+    "a4": "PDF/A-3 est une norme ISO pour l'archivage longue durée des documents PDF, permettant également l'intégration de fichiers comme le XML.",
+    "q5": "Quels formats de fichiers puis-je importer ?",
+    "a5": "PDF, CSV, Excel (XLSX/XLS), MT940, camt.053 XML, ainsi que des images (JPG, PNG, HEIC) de factures.",
+    "q6": "Comment fonctionne la reconnaissance IA ?",
+    "a6": "Notre IA analyse les documents importés et extrait automatiquement tous les champs de facturation pertinents conformément à la norme EN 16931.",
+    "q7": "Qu'est-ce que le SIREN ?",
+    "a7": "Le SIREN est l'identifiant unique à 9 chiffres attribué à chaque entreprise en France par l'INSEE. Il est requis sur les factures conformes."
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "free": "Gratuit",
+    "free_desc": "Jusqu'à 3 factures par jour",
+    "starter": "Starter",
+    "starter_price": "20",
+    "starter_desc": "400 factures / mois",
+    "starter_annual": "200",
+    "pro": "Professionnel",
+    "pro_price": "50",
+    "pro_desc": "1 000 factures / mois",
+    "pro_annual": "500",
+    "business": "Entreprise",
+    "business_price": "99",
+    "business_desc": "4 000 factures / mois",
+    "business_annual": "800",
+    "per_month": "/ mois",
+    "per_year": "/ an",
+    "cta": "Commencer",
+    "enterprise_cta": "Nous contacter"
+  },
+  "footer": {
+    "copyright": "Factur-X Prêt",
+    "privacy": "Politique de confidentialité",
+    "imprint": "Mentions légales",
+    "terms": "CGU"
+  }
+}
