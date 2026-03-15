@@ -1,0 +1,73 @@
+{
+  "legal": {
+    "mentions_legales": {
+      "title": "Mentions l\u00e9gales",
+      "meta_description": "Mentions l\u00e9gales du site Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "editeur": "\u00c9diteur du site",
+      "company": "Radom UG (haftungsbeschr\u00e4nkt)",
+      "address": "Taunusanlage 8, 60329 Frankfurt am Main, Allemagne",
+      "register": "Amtsgericht Frankfurt am Main, HRB 130877",
+      "vat": "DE367553843",
+      "vat_label": "N\u00b0 TVA intracommunautaire",
+      "director": "Arber Lamce",
+      "director_label": "Directeur g\u00e9n\u00e9ral",
+      "email": "support@facturx-pret.fr",
+      "phone": "+49 176 99742900",
+      "hebergement": "H\u00e9bergement",
+      "hebergement_text": "Ce site est h\u00e9berg\u00e9 par Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Allemagne.",
+      "informations": "Informations l\u00e9gales",
+      "informations_text": "Conform\u00e9ment aux dispositions de la loi n\u00b0 2004-575 du 21 juin 2004 pour la confiance dans l\u2019\u00e9conomie num\u00e9rique (LCEN), les utilisateurs du site facturx-pret.fr sont inform\u00e9s de l\u2019identit\u00e9 des diff\u00e9rents intervenants dans le cadre de sa r\u00e9alisation et de son suivi."
+    },
+    "confidentialite": {
+      "title": "Politique de confidentialit\u00e9",
+      "meta_description": "Politique de confidentialit\u00e9 de Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "intro": "Nous respectons votre vie priv\u00e9e. Cette politique d\u00e9crit les donn\u00e9es que nous collectons, comment nous les utilisons et vos droits.",
+      "collecte_title": "Donn\u00e9es collect\u00e9es",
+      "collecte_text": "Nous collectons uniquement les donn\u00e9es n\u00e9cessaires au fonctionnement du service : adresse e-mail lors de l\u2019inscription, donn\u00e9es de facturation saisies ou import\u00e9es, et donn\u00e9es techniques de connexion (adresse IP, navigateur).",
+      "utilisation_title": "Utilisation des donn\u00e9es",
+      "utilisation_text": "Vos donn\u00e9es sont utilis\u00e9es exclusivement pour g\u00e9n\u00e9rer vos factures Factur-X et g\u00e9rer votre compte. Nous ne vendons ni ne partageons vos donn\u00e9es personnelles avec des tiers.",
+      "conservation_title": "Conservation des donn\u00e9es",
+      "conservation_text": "Les donn\u00e9es de facturation sont conserv\u00e9es pendant la dur\u00e9e de votre compte. Vous pouvez demander la suppression de vos donn\u00e9es \u00e0 tout moment.",
+      "droits_title": "Vos droits",
+      "droits_text": "Conform\u00e9ment au RGPD, vous disposez d\u2019un droit d\u2019acc\u00e8s, de rectification, d\u2019effacement et de portabilit\u00e9 de vos donn\u00e9es. Contactez-nous \u00e0 support@facturx-pret.fr.",
+      "cookies_title": "Cookies",
+      "cookies_text": "Ce site utilise uniquement des cookies techniques n\u00e9cessaires au fonctionnement du service. Aucun cookie publicitaire ou de tra\u00e7age n\u2019est utilis\u00e9.",
+      "contact_title": "Contact",
+      "contact_text": "Pour toute question relative \u00e0 la protection de vos donn\u00e9es, contactez-nous \u00e0 support@facturx-pret.fr."
+    },
+    "cgv": {
+      "title": "Conditions G\u00e9n\u00e9rales de Vente",
+      "meta_description": "Conditions G\u00e9n\u00e9rales de Vente de Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "intro": "Les pr\u00e9sentes Conditions G\u00e9n\u00e9rales de Vente (CGV) r\u00e9gissent l\u2019utilisation du service Factur-X Pr\u00eat propos\u00e9 par Radom UG (haftungsbeschr\u00e4nkt).",
+      "objet_title": "Objet",
+      "objet_text": "Le service Factur-X Pr\u00eat permet la g\u00e9n\u00e9ration de factures \u00e9lectroniques au format Factur-X 1.0.8 conforme \u00e0 la norme EN 16931.",
+      "tarifs_title": "Tarifs",
+      "tarifs_text": "Le service propose un acc\u00e8s gratuit limit\u00e9 \u00e0 3 factures par jour ainsi que des abonnements payants (Starter, Professionnel, Entreprise). Les prix sont indiqu\u00e9s en euros TTC.",
+      "paiement_title": "Paiement",
+      "paiement_text": "Les paiements sont trait\u00e9s par Stripe. Les abonnements sont renouvel\u00e9s automatiquement sauf annulation avant la date de renouvellement.",
+      "responsabilite_title": "Responsabilit\u00e9",
+      "responsabilite_text": "Factur-X Pr\u00eat fournit un outil de g\u00e9n\u00e9ration de factures. L\u2019utilisateur est seul responsable de l\u2019exactitude des donn\u00e9es saisies et de la conformit\u00e9 fiscale de ses factures.",
+      "resiliation_title": "R\u00e9siliation",
+      "resiliation_text": "Vous pouvez r\u00e9silier votre abonnement \u00e0 tout moment depuis votre espace client. La r\u00e9siliation prend effet \u00e0 la fin de la p\u00e9riode en cours.",
+      "droit_applicable_title": "Droit applicable",
+      "droit_applicable_text": "Les pr\u00e9sentes CGV sont soumises au droit allemand. Tout litige sera port\u00e9 devant les tribunaux comp\u00e9tents de Francfort-sur-le-Main."
+    },
+    "contact": {
+      "title": "Contact",
+      "meta_description": "Contactez l\u2019\u00e9quipe Factur-X Pr\u00eat",
+      "heading": "Nous contacter",
+      "text": "Une question sur le service ou la facturation \u00e9lectronique ? N\u2019h\u00e9sitez pas \u00e0 nous \u00e9crire.",
+      "email_label": "E-mail",
+      "company_label": "Soci\u00e9t\u00e9",
+      "address_label": "Adresse"
+    },
+    "footer": {
+      "home": "Accueil",
+      "mentions_legales": "Mentions l\u00e9gales",
+      "confidentialite": "Confidentialit\u00e9",
+      "cgv": "CGV",
+      "contact": "Contact",
+      "copyright": "\u00a9 2026 Radom UG (haftungsbeschr\u00e4nkt). Tous droits r\u00e9serv\u00e9s."
+    }
+  }
+}

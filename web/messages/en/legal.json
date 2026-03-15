@@ -1,0 +1,73 @@
+{
+  "legal": {
+    "mentions_legales": {
+      "title": "Legal Notice",
+      "meta_description": "Legal notice for Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "editeur": "Site Publisher",
+      "company": "Radom UG (haftungsbeschr\u00e4nkt)",
+      "address": "Taunusanlage 8, 60329 Frankfurt am Main, Germany",
+      "register": "Amtsgericht Frankfurt am Main, HRB 130877",
+      "vat": "DE367553843",
+      "vat_label": "VAT ID",
+      "director": "Arber Lamce",
+      "director_label": "Managing Director",
+      "email": "support@facturx-pret.fr",
+      "phone": "+49 176 99742900",
+      "hebergement": "Hosting",
+      "hebergement_text": "This website is hosted by Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Germany.",
+      "informations": "Legal Information",
+      "informations_text": "In accordance with the provisions of French Law No. 2004-575 of June 21, 2004, on confidence in the digital economy (LCEN), users of facturx-pret.fr are informed of the identity of the parties involved in its creation and management."
+    },
+    "confidentialite": {
+      "title": "Privacy Policy",
+      "meta_description": "Privacy policy for Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "intro": "We respect your privacy. This policy describes what data we collect, how we use it, and your rights.",
+      "collecte_title": "Data Collected",
+      "collecte_text": "We only collect data necessary for the operation of the service: email address upon registration, invoice data entered or uploaded, and technical connection data (IP address, browser).",
+      "utilisation_title": "Use of Data",
+      "utilisation_text": "Your data is used exclusively to generate your Factur-X invoices and manage your account. We do not sell or share your personal data with third parties.",
+      "conservation_title": "Data Retention",
+      "conservation_text": "Invoice data is retained for the duration of your account. You may request deletion of your data at any time.",
+      "droits_title": "Your Rights",
+      "droits_text": "Under the GDPR, you have the right to access, rectify, erase, and port your data. Contact us at support@facturx-pret.fr.",
+      "cookies_title": "Cookies",
+      "cookies_text": "This site only uses technical cookies necessary for the operation of the service. No advertising or tracking cookies are used.",
+      "contact_title": "Contact",
+      "contact_text": "For any questions regarding the protection of your data, contact us at support@facturx-pret.fr."
+    },
+    "cgv": {
+      "title": "Terms of Service",
+      "meta_description": "Terms of Service for Factur-X Pr\u00eat \u2014 facturx-pret.fr",
+      "intro": "These Terms of Service govern the use of the Factur-X Pr\u00eat service provided by Radom UG (haftungsbeschr\u00e4nkt).",
+      "objet_title": "Purpose",
+      "objet_text": "The Factur-X Pr\u00eat service enables the generation of electronic invoices in Factur-X 1.0.8 format compliant with the EN 16931 standard.",
+      "tarifs_title": "Pricing",
+      "tarifs_text": "The service offers free access limited to 3 invoices per day as well as paid subscriptions (Starter, Professional, Enterprise). Prices are shown in euros including VAT.",
+      "paiement_title": "Payment",
+      "paiement_text": "Payments are processed by Stripe. Subscriptions are automatically renewed unless cancelled before the renewal date.",
+      "responsabilite_title": "Liability",
+      "responsabilite_text": "Factur-X Pr\u00eat provides an invoice generation tool. The user is solely responsible for the accuracy of the data entered and the tax compliance of their invoices.",
+      "resiliation_title": "Cancellation",
+      "resiliation_text": "You may cancel your subscription at any time from your account dashboard. Cancellation takes effect at the end of the current billing period.",
+      "droit_applicable_title": "Applicable Law",
+      "droit_applicable_text": "These Terms are governed by German law. Any disputes shall be brought before the competent courts of Frankfurt am Main."
+    },
+    "contact": {
+      "title": "Contact",
+      "meta_description": "Contact the Factur-X Pr\u00eat team",
+      "heading": "Get in Touch",
+      "text": "Have a question about the service or electronic invoicing? Feel free to reach out.",
+      "email_label": "Email",
+      "company_label": "Company",
+      "address_label": "Address"
+    },
+    "footer": {
+      "home": "Home",
+      "mentions_legales": "Legal Notice",
+      "confidentialite": "Privacy",
+      "cgv": "Terms",
+      "contact": "Contact",
+      "copyright": "\u00a9 2026 Radom UG (haftungsbeschr\u00e4nkt). All rights reserved."
+    }
+  }
+}

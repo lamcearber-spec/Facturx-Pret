@@ -270,27 +270,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="py-8 border-t border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div className="flex items-center gap-4">
-              <div className="text-sm text-gray-500">
-                &copy; {new Date().getFullYear()} {t("footer.copyright")}
-              </div>
-              <LanguageSwitcher variant="compact" className="hidden sm:block" />
-            </div>
-            <div className="flex gap-6 text-sm text-gray-500">
-              <a href="#" className="hover:text-gray-700">{t("footer.privacy")}</a>
-              <a href="#" className="hover:text-gray-700">{t("footer.imprint")}</a>
-              <a href="#" className="hover:text-gray-700">{t("footer.terms")}</a>
-              <a href={`mailto:${siteConfig.supportEmail}`} className="hover:text-gray-700">
-                {siteConfig.supportEmail}
-              </a>
-            </div>
-          </div>
-        </div>
-      </footer>
+      {/* Footer is rendered by layout.tsx */}
     </div>
   );
 }
